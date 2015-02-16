@@ -1,0 +1,23 @@
+{
+  "name": "dev-ribbon",
+  "main": "dev-ribbon.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/brock/dev-ribbon",
+  "authors": [
+    "Brock Angelo <brockangelo@gmail.com>"
+  ],
+  "description": "add a ribbon to your development sites",
+  "keywords": [
+    "dev",
+    "staging",
+    "ribbon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
