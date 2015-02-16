@@ -1,3 +1,4 @@
+<img align="right" src="screenshot.png">
 # dev-ribbon
 Add a ribbon to your development sites
 
@@ -6,5 +7,3 @@ Add this tag to your HTML, and if the `window.location.hostname` matches `localh
 ```
 <script type="text/javascript" src="dev-ribbon.js"></script>
 ```
-
-![screenshot](screenshot.png)
