@@ -1,10 +1,14 @@
-# dev-ribbon
-Add a ribbon to your development sites
+<img align="right" src="screenshot.png">
 
-Add this tag to your HTML, and if the `window.location.hostname` matches `localhost`, `.dev` or `.local` it will show a green "Development" banner in the top right.
+### Dev Ribbon
+Add the script tag below  
+If `window.location.hostname` matches
+  * `localhost`
+  * `.dev`
+  * `.local`
+
+You get a green "Development" banner
 
 ```
 <script type="text/javascript" src="dev-ribbon.js"></script>
 ```
-
-![screenshot](screenshot.png)
