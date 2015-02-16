@@ -10,5 +10,10 @@ If `window.location.hostname` matches
 You get a green "Development" banner
 
 ```
-<script type="text/javascript" src="dev-ribbon.js"></script>
+bower install dev-ribbon
+```
+
+Then add this script to your HTML:
+```
+<script type="text/javascript" src="bower_components/dev-ribbon/dev-ribbon.js"></script>
 ```
