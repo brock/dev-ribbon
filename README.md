@@ -1,14 +1,14 @@
 <img align="right" src="screenshot.png">
 
 ### Dev Ribbon
-Add the script tag below  
-If `window.location.hostname` matches
+When on a development site at:
   * `localhost`
   * `.dev`
   * `.local`
 
-You get a green "Development" banner
+...you'll get a green "Development" banner
 
+---
 ### Installation
 ```
 bower install dev-ribbon
