@@ -9,6 +9,7 @@ If `window.location.hostname` matches
 
 You get a green "Development" banner
 
+### Installation
 ```
 bower install dev-ribbon
 ```
