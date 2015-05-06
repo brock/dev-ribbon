@@ -1,10 +1,11 @@
 {
   "name": "dev-ribbon",
   "main": "dev-ribbon.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/brock/dev-ribbon",
   "authors": [
-    "Brock Angelo <brockangelo@gmail.com>"
+    "Brock Angelo <brockangelo@gmail.com>",
+    "Andrej Zachar <andrej@chocolatejar.eu"
   ],
   "description": "add a ribbon to your development sites",
   "keywords": [
