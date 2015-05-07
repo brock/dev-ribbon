@@ -1,11 +1,14 @@
 {
   "name": "dev-ribbon",
-  "main": "dev-ribbon.js",
-  "version": "0.1.1",
+  "main": [
+    "dist/dev-ribbon.js",
+    "dist/dev-ribbon.css"
+  ],
+  "version": "0.2.0",
   "homepage": "https://github.com/brock/dev-ribbon",
   "authors": [
     "Brock Angelo <brockangelo@gmail.com>",
-    "Andrej Zachar <andrej@chocolatejar.eu"
+    "Andrej Zachar <andrej@chocolatejar.eu>"
   ],
   "description": "add a ribbon to your development sites",
   "keywords": [
@@ -19,6 +22,14 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brock/dev-ribbon.git"
+  },
+  "moduleType": [
+    "es6"
   ]
 }

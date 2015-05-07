@@ -1,0 +1,17 @@
+{
+  "name": "dev-ribbon",
+  "version": "0.2.0",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp-autoprefixer": "^2.2.0",
+    "gulp-cache": "^0.2.9",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.10.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
