@@ -52,9 +52,20 @@ gulp watch
 ```
 Changes in the ``src`` folder are automatically compiled into the ```dist`` folder.
 
+### Local development in your web app project
 
-Then add this script to your HTML:
+1. Type
 ```
-<link rel="stylesheet" href="bower_components/dev-ribbon/dist/dev-ribbon.min.css" />
-<script type="text/javascript" src="bower_components/dev-ribbon/dist/dev-ribbon.min.js"></script>
+bower link
 ```
+In your local dev-ribbon project
+
+
+
+2. And in your webapp project type a new (local) depedency
+
+```
+bower link dev-ribbon
+```
+
+Now you can develop the dev-ribbon in your web app.
