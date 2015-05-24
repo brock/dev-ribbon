@@ -1,4 +1,4 @@
-<img align="right" src="screenshot.png">
+<img align="right" src="orange.png">
 
 ### Dev Ribbon
 When on a localhost site at:
@@ -6,7 +6,9 @@ When on a localhost site at:
   * `.dev`
   * `.local`
 
-...you'll get a green "LOCALHOST" banner
+...you'll get an orange "LOCALHOST" banner
+
+<img align="right" src="screenshot.png">
 
 When on a development site at:
   * `dev.`
@@ -28,7 +30,7 @@ That's it!
 ### Manual
 If your bower dependencies are not automatically injected into your html, use this steps:
 
-1. Install our bower component 
+1. Install our bower component
 ```
 bower install dev-ribbon
 ```
