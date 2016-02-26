@@ -17,7 +17,7 @@
             break;
         }
         if (ribbon!==undefined){
-            document.body.innerHTML += "<div id='dev-ribbon' class='top-right "+ribbon+"'>"+ribbon+"</div>";
+            document.body.innerHTML += "<div id='dev-ribbon' class='top-left "+ribbon+"'>"+ribbon+"</div>";
         }
     }
 

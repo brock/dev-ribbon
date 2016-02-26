@@ -11,16 +11,24 @@
 
     &.development {
         @include color-variant(#087c15);
+        opacity: 0.7
     }
 
     &.localhost {
         @include color-variant(orange);
+        opacity: 0.5
     }
 
     &.top-right {
         right: -50px;
         top: 50px;
         transform: rotate(45deg);
+        backface-visibility: hidden;
+    }
+    &.top-left {
+        left: -50px;
+        top: 50px;
+        transform: rotate(-45deg);
         backface-visibility: hidden;
     }
     text-align: center;
