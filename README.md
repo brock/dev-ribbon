@@ -1,3 +1,10 @@
+# Dev-Ribbon
+
+By [brock](https://github.com/brock) - Featuring [azachar](https://github.com/azachar)
+
+---
+
+
 <img align="right" src="orange.png">
 
 ### Dev Ribbon
